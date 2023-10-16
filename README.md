@@ -36,8 +36,8 @@ cd calculator
 
 ## Preview
 
-(![Calculator](https://github.com/Maneesh-Reddy/Calculator/assets/116450435/5de67019-ad94-4a26-9635-ec280c380a8f)
-)
+![Calculator](https://github.com/Maneesh-Reddy/Calculator/assets/116450435/5cacc5f2-082c-403a-bb58-027ea82fb6a5)
+
 
 ## Contributing
 
